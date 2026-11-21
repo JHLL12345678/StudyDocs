@@ -140,8 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="[动态转移]-dp.c" />
+    <ClCompile Include="[动态转移]-滑动窗口.c" />
     <ClCompile Include="[动态转移]-线性dp.c" />
     <ClCompile Include="[图论]-链式前向星+BFS.c" />
+    <ClCompile Include="[树]-树和二叉树的定义.c" />
     <ClCompile Include="[背包]-01背包.c" />
     <ClCompile Include="[背包]-完全背包.c" />
     <ClCompile Include="栈.c" />

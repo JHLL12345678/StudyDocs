@@ -39,5 +39,11 @@
     <ClCompile Include="[动态转移]-线性dp.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="[树]-树和二叉树的定义.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="[动态转移]-滑动窗口.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
